@@ -1,2 +1,2 @@
-console.log("good")
-console.log("good")
+console.log("test");
+console.log("test");
